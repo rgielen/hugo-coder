@@ -135,13 +135,13 @@ blockquote {
 }
 
 th, td {
-  padding: 1.6rem;
+  padding: 1.0rem;
 }
 table {
   border-collapse: collapse;
 }
 table td, table th {
-  border: 2px solid $alt-fg-color;
+  border: $alt-fg-color;
 }
 table tr:first-child th {
   border-top: 0;
